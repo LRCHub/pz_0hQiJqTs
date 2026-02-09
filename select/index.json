@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Rainy",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2026-02-09T09:55:46.782659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Love a Rainy Night",
+      "artist": "Eddie Rabbitt",
+      "has_synced": false,
+      "path": "select/01_I_Love_a_Rainy_Night_Eddie_Rabbitt.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Love a Rainy Night (Album Version)",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/02_I_Love_a_Rainy_Night_(Album_Version)_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save It for a Rainy Day",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/03_Save_It_for_a_Rainy_Day_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "nuts (feat. rainy bear)",
+      "artist": "Lil Peep feat. rainy bear",
+      "has_synced": true,
+      "path": "select/04_nuts_(feat._rainy_bear)_Lil_Peep_feat._rainy_bear.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rainy Day",
+      "artist": "Susan Christie",
+      "has_synced": true,
+      "path": "select/05_Rainy_Day_Susan_Christie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rainy Day",
+      "artist": "Susan Christie",
+      "has_synced": false,
+      "path": "select/06_Rainy_Day_Susan_Christie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Rainy Night In Soho",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/07_A_Rainy_Night_In_Soho_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rainy Night In Soho - Oboe Version",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/08_Rainy_Night_In_Soho_-_Oboe_Version_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rainy Night in Soho (Oboe version)",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/09_Rainy_Night_in_Soho_(Oboe_version)_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Here`s That Rainy Day",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/10_Here`s_That_Rainy_Day_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Here's That Rainy Day",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/11_Here's_That_Rainy_Day_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Automatic Rainy Day",
+      "artist": "The Go-Go's",
+      "has_synced": false,
+      "path": "select/12_Automatic_Rainy_Day_The_Go-Go's.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cry Like a Rainy Day",
+      "artist": "Feargal Sharkey",
+      "has_synced": false,
+      "path": "select/13_Cry_Like_a_Rainy_Day_Feargal_Sharkey.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Save It For A Rainy Day",
+      "artist": "Stephen Bishop",
+      "has_synced": false,
+      "path": "select/14_Save_It_For_A_Rainy_Day_Stephen_Bishop.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Here's That Rainy Day",
+      "artist": "Astrud Gilberto",
+      "has_synced": true,
+      "path": "select/15_Here's_That_Rainy_Day_Astrud_Gilberto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's a Rainy Day",
+      "artist": "Ice MC",
+      "has_synced": true,
+      "path": "select/16_It's_a_Rainy_Day_Ice_MC.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's a Rainy Day (Happyman Radio Mix)",
+      "artist": "Ice MC",
+      "has_synced": false,
+      "path": "select/17_It's_a_Rainy_Day_(Happyman_Radio_Mix)_Ice_MC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rainy",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_Rainy_猫又おかゆ.txt"
+    }
+  ]
+}
